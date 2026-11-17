@@ -22,28 +22,6 @@ Salary_predict/
 ├── requirements.txt        # List of dependencies
 └── README.md               # Project documentation
 
-
-
-
-
-
-
-
-# salary-prediction-regression-machine-learning-project
-
-This repository is about building a machine learning regression model with Python to predict employee salaries based on career and demographic features.
-
-Kaggle Dataset Link: [Salary Dataset](https://www.kaggle.com/datasets) *(update with your specific dataset link)*
-Trained Model Link: [Google Drive Model Link](https://drive.google.com) *(update with your model link)*
-
-## 📂 Repository Structure
-* **`app/`** - Contains the deployment or inference code (Streamlit / Flask app).
-* **`model_training_notebook/`** - Contains the Jupyter Notebook used for Exploratory Data Analysis (EDA), feature engineering, and model training.
-* **`test_images/`** or **`data/`** - Contains sample datasets and test inputs.
-* **`README.md`** - Project documentation.
-
-## 🚀 Getting Started
-
 ### Prerequisites
 Make sure you have Python installed along with the required libraries. You can install the dependencies using:
 ```bash
